@@ -1,6 +1,7 @@
 #JavaScript30
 
-Exercices réalisés grâce au super cours en ligne JavaScript30 de Wesbos.
+Exercices réalisés grâce au super cours en ligne JavaScript30 de Wes Bos.
+Showcase : https://eb01.github.io/JavaScript30-perso/
 
 ## Sources :
 
